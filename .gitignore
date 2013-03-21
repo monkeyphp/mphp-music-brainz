@@ -1,1 +1,4 @@
 nbproject/
+test/log/
+composer.phar
+composer.lock
