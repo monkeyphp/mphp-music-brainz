@@ -17,7 +17,7 @@ use MphpMusicBrainz\Adapter\Interfaces\AdapterFactoryInterface;
 use MphpMusicBrainz\Adapter\Xml\Result\ArtistResultAdapter;
 use MphpMusicBrainz\Adapter\Xml\Result\LabelResultAdapter;
 use MphpMusicBrainz\Adapter\Xml\Result\RecordingResultAdapter;
-use MphServicepMusicBrainz\Adapter\Xml\Result\ReleaseGroupResultAdapter;
+use MphpMusicBrainz\Adapter\Xml\Result\ReleaseGroupResultAdapter;
 use MphpMusicBrainz\Adapter\Xml\Result\ReleaseResultAdapter;
 use MphpMusicBrainz\Adapter\Xml\Result\WorkResultAdapter;
 use MphpMusicBrainz\Adapter\Xml\ResultSet\ArtistResultSetAdapter;
